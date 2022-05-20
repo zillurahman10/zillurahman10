@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zillurahman10
+- 👋 Hi, I’m Zillur Rahman
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning on reactJS
 - 💞️ I’m looking to collaborate on with google
