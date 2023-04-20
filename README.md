@@ -1,4 +1,4 @@
-![done](https://user-images.githubusercontent.com/96817273/184211837-7e41f312-abe6-45c9-b79f-4b97a52701c6.png)
+![done](https://i.ibb.co/7yFT7P9/Blue-and-Purple-Cyberpunk-Linkedin-Banner.png)
 - 👋 Hi, I’m Zillur Rahman
 - 👀 I’m interested in programming
 - 🌱 I’m experienced in reactJS
